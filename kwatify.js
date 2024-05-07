@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const volumeControl = document.getElementById("volume");
     const currentCover = document.getElementById('poster_master_play');
     const songNameElement = document.getElementById('title');
-    const playbar = document.getElementById('playbar');ok
+    const playbar = document.getElementById('playbar');
     const currentTimeElement = document.getElementById("currentStart");
     const durationElement = document.getElementById("currentEnd");
 
